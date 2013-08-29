@@ -1,0 +1,6 @@
+# OAuth Local Setting
+ENV['TWITTER_KEY'] = '*****'
+ENV['TWITTER_SECRET'] = '*****'
+
+ENV['FACEBOOK_KEY'] = "*****"
+ENV['FACEBOOK_SECRET'] = "*****"
